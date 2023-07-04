@@ -1,4 +1,5 @@
-# service_name3# [Sustainable Shopper]
+# [Sustainable Shopper]
+
 ## サービス概要
 "Sustainable Shopper"は、ユーザーやフードロスを減らしたい経営者がタイムセール情報（スーパーの値下げ情報など）を投稿し、情報を共有するサイトです。
 
