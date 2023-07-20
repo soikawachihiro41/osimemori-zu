@@ -24,8 +24,7 @@
 
 ## 実装を予定している機能
 ### MVP
-* 会員登録
-* ログイン
+* ログイン（LINEログイン機能）
 * 写真アップロード
 * 写真一覧
 * ライン連携
@@ -35,3 +34,6 @@
 * 推し別アルバム機能
 * ソーシャルシェア機能
 * 写真の編集（フィルター、ステッカー追加など）
+
+## 画面遷移図
+* https://www.figma.com/file/qRFv8pmmfvhrD6HxZXW2RB/%E6%8E%A8%E3%81%97%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E4%BB%AE%EF%BC%89?type=design&node-id=13%3A1033&mode=design&t=I7Rw2a3wdbh54QNf-1
