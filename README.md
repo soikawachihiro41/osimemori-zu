@@ -63,4 +63,4 @@ Figma： https://www.figma.com/file/qRFv8pmmfvhrD6HxZXW2RB/%E6%8E%A8%E3%81%97%E3
 - [ ] 特に違和感を感じなかった
 
 ## ER図
-[![Image from Gyazo](https://i.gyazo.com/008e007c19d3ca04391431b77b24e3a9.png)](https://gyazo.com/008e007c19d3ca04391431b77b24e3a9)
+[![Image from Gyazo](https://i.gyazo.com/1ffbc74fcc9fb7e6c894824c233e40f1.png)](https://gyazo.com/1ffbc74fcc9fb7e6c894824c233e40f1)
