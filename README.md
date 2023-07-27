@@ -61,3 +61,6 @@ Figma： https://www.figma.com/file/qRFv8pmmfvhrD6HxZXW2RB/%E6%8E%A8%E3%81%97%E3
 ### 想定URL
 [こちら](https://xd.adobe.com/view/53d16b6b-bcdf-479b-4e6a-a67539af96c5-25e0/grid/)と同様にURLを記載している場合は違和感がないものになっているか？（必須ではありません）
 - [ ] 特に違和感を感じなかった
+
+## ER図
+[![Image from Gyazo](https://i.gyazo.com/1ffbc74fcc9fb7e6c894824c233e40f1.png)](https://gyazo.com/1ffbc74fcc9fb7e6c894824c233e40f1)
