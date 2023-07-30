@@ -3,7 +3,4 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
-  root 'home#top'
-  get '/after_login', to: 'home#after_login'
-  resource :user, only: %i[new create]
 end
