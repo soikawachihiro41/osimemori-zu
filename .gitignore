@@ -34,3 +34,6 @@
 !/app/assets/builds/.keep
 
 /node_modules
+credentials.yml.enc
+certs/localhost-key.pem
+certs/localhost.pem
