@@ -8,12 +8,14 @@
     <%= stylesheet_link_tag "tailwind", "inter-font", "data-turbo-track": "reload" %>
 
     <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+    <%= include_gon %>
     <%= javascript_include_tag "application", "data-turbo-track": "reload", defer: true %>
   </head>
 
   <body>
     <main class="container mx-auto mt-28 px-5 flex">
       <%= yield %>
+      <script charset="utf-8" src="https://static.line-scdn.net/liff/edge/2/sdk.js"></script>
     </main>
   </body>
 </html>
