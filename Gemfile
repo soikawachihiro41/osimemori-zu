@@ -50,6 +50,9 @@ gem 'mini_magick'
 # ファイルのアップロード機能
 gem 'carrierwave'
 
+# 環境変数を管理する
+gem 'dotenv-rails'
+gem 'gon'
 
 # Use Sass to process CSS
 # gem "sassc-rails"

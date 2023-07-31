@@ -12,4 +12,6 @@ class HomeController < ApplicationController
   def after_login
     login_required
   end
+
+  def terms; end
 end
