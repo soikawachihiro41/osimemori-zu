@@ -81,6 +81,10 @@ test:
 #
 production:
   <<: *default
-  database: service_name3_production
+  adapter: postgresql
+  encoding: unicode
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  database: railsgirls_production
+  username: railsgirls
   username: service_name3
   password: <%= ENV["SERVICE_NAME3_DATABASE_PASSWORD"] %>
