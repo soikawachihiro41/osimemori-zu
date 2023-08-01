@@ -194,6 +194,7 @@ GEM
       actionpack (>= 5.2)
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
+    sqlite3 (1.6.3-x86_64-darwin)
     ssrf_filter (1.1.1)
     stimulus-rails (1.2.1)
       railties (>= 6.0.0)
@@ -236,6 +237,7 @@ DEPENDENCIES
   rails (~> 7.0.3)
   rails-i18n
   sprockets-rails
+  sqlite3
   stimulus-rails
   tailwindcss-rails
   turbo-rails
