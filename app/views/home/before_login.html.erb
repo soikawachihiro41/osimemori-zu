@@ -27,7 +27,6 @@
     </div>
   </div>
   <div class='text-center pt-20'>
-    <%= link_to t('defaults.take_test'), '#', class:'btn btn-primary' %>
+    <%= link_to t('defaults.take_test'), new_user_path, class:'btn btn-primary', data: { turbo: false } %>
   </div>
-
 </div>
